@@ -1,3 +1,3 @@
 # A Simple Electron Splash Screen
 
-A Simple Electrin Splashscreen using html.
+A Simple Electron Splashscreen using html.
